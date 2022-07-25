@@ -1,9 +1,9 @@
 <h1 style="text-align: center;margin-bottom: 5px;">汤米老师<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, React, Vue.js and all the technology behind it...</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, Laravel, Vue.js and all the technology behind it...</h3>
 
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/pdshwc" target="_blank"><img src="https://img.shields.io/badge/-pdshwc-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://github.com/pdshwc" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
 <br/><br/>
 </div>
 
