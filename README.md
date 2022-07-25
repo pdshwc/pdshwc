@@ -97,8 +97,8 @@
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
-[![](https://github-readme-stats.vercel.app/api?username=pdshwc&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=pdshwc&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+[![](https://github-readme-stats.vercel.app/api?username=pdshwc&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pdshwc)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=pdshwc&theme=tokyonight&hide_border=true)](https://github.com/pdshwc)
 
 </div>
 </div>
