@@ -3,13 +3,8 @@
 
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
-<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<a href="https://github.com/pdshwc" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
 <br/><br/>
-<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
 
 
@@ -20,16 +15,12 @@
 
 <h3>Back-end & Front-end</h3>
 
-<a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
-
-<a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&style=for-the-badge" alt="vuejs"/></a>
 <a href="https://nuxtjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Nuxt.js*-white?logo=nuxtdotjs&logoColor=00DC82&style=for-the-badge" alt="nuxtjs"/></a>
 <a href="https://inertiajs.com/" target="_blank"><img src="https://img.shields.io/badge/-Inertia.js*-white?logo=inertiadotjs&logoColor=00DC82&style=for-the-badge" alt="inertiadotjs"/></a>
 
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
