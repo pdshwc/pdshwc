@@ -3,7 +3,6 @@
 
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/pdshwc" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
 <br/><br/>
 </div>
 
